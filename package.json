@@ -1,0 +1,36 @@
+{
+  "name": "zyc-pages",
+  "version": "0.1.0",
+  "description": "static web app",
+  "keywords": [
+    "zyc-pages",
+    "zce"
+  ],
+  "homepage": "https://github.com/Daxy1995/zyc-pages#readme",
+  "bugs": {
+    "url": "https://github.com/Daxy1995/zyc-pages/issues"
+  },
+  "license": "MIT",
+  "author": "zhouyongcheng <286904187@qq.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daxy1995/zyc-pages.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
